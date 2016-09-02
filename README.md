@@ -1,4 +1,4 @@
-## Example using ClassWorker:
+## Example using [ClassWorker](https://github.com/spirinvladimir/classworker):
 
 Instanse of class **Cat** will start at **WebWorker**
 
